@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **Data Analyst, SQL, R, Python, Excel, Spreadsheet, Dashboard (Data Studio, Power BI, Tableau)**. 
 
-📫 How to reach me: [E-mail](https://thitima.kh63@gmail.com)
+📫 How to reach me: E-mail <thitima.kh63@gmail.com>
 
 <!--
 **ThitimaKh/ThitimaKh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
