@@ -1,7 +1,7 @@
 
 ### Hi, I'm June. 
 
-🌱 I’m currently learning Data Analyst, SQL, R, Python, Excel, Spreadsheet, Dashboard(Data Studio, Power BI, Tableau)
+🌱 I’m currently learning **Data Analyst, SQL, R, Python, Excel, Spreadsheet, Dashboard (Data Studio, Power BI, Tableau)**. 
 
 <!--
 **ThitimaKh/ThitimaKh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
