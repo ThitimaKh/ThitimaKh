@@ -1,7 +1,13 @@
 
 ### Hi, I'm June. 
 
-🌱 I’m currently learning **Data Analyst, SQL, R, Python, Excel, Spreadsheet, Dashboard (Data Studio, Power BI, Tableau)**. 
+🌱 I’m currently learning ... 
+> - Data Analyst 
+> - SQL
+> - R
+> - Python
+> - Excel and Spreadsheet
+> - Dashboard (Data Studio, Power BI, Tableau)
 
 📫 How to reach me: E-mail <thitima.kh63@gmail.com>
 
