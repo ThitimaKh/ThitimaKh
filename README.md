@@ -1,7 +1,7 @@
 
 ## Hi, I'm June. 
 
-### I graduated from King Mongkut's University of Technology Thonburi (KMUTT) with a Bachelor of Engineering, in Electronics and Telecommunication Engineering.
+#### I graduated from King Mongkut's University of Technology Thonburi (KMUTT) with a Bachelor of Engineering, in Electronics and Telecommunication Engineering.
 
 >🌱 **I’m currently learning ...**
 > - Data Analyst 
